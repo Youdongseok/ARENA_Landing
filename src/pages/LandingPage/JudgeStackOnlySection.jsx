@@ -115,9 +115,9 @@ function SuccessJudgeModelPreview() {
 
 export default function JudgeStackOnlySection() {
   return (
-    <>
-      <section id="judge" className="relative bg-white py-16 sm:py-20">
-        <Container>
+    <section id="judge" className="relative bg-white py-16 sm:py-20">
+      <Container>
+        <div className="flex flex-col gap-12">
           <div className="grid gap-10 lg:grid-cols-[minmax(0,1.08fr)_minmax(0,0.92fr)] lg:items-center lg:gap-14">
             <motion.div {...SECTION_COPY_REVEAL}>
               <AutoJudgePreview />
@@ -125,7 +125,7 @@ export default function JudgeStackOnlySection() {
             <div className="flex flex-col gap-6 lg:pl-6">
               <motion.div className="max-w-xl space-y-4" {...SECTION_TITLE_REVEAL}>
                 <SectionTitle
-                  eyebrow="Auto Judge"
+                  eyebrow="Judge Model"
                   title="어떻게 평가하나요?"
                   desc={
                     <>
@@ -136,23 +136,21 @@ export default function JudgeStackOnlySection() {
                   }
                 />
               </motion.div>
-              <motion.div className="max-w-lg text-sm leading-7 text-[#57534e] sm:text-base" {...SECTION_COPY_REVEAL}>
+              <motion.div
+                className="max-w-lg text-sm leading-7 text-[#57534e] sm:text-base"
+                {...SECTION_COPY_REVEAL}
+              >
                 단순히 결과만 보여주는 대신, 실제로 분석이 진행 중인 로딩 경험까지 포함해 하나의 심사
                 흐름처럼 체감할 수 있도록 구성했습니다.
               </motion.div>
             </div>
           </div>
-        </Container>
-      </section>
 
-      <section className="relative bg-white py-16 sm:py-20">
-        <Container>
-          <div className="flex flex-col gap-12">
             <div className="grid gap-10 lg:grid-cols-[minmax(0,0.92fr)_minmax(0,1.08fr)] lg:items-center lg:gap-14">
               <div className="flex flex-col gap-6 lg:pr-6">
                 <motion.div className="max-w-xl space-y-4" {...SECTION_TITLE_REVEAL}>
                   <SectionTitle
-                    eyebrow="Judge Model"
+                    eyebrow=""
                     title="Judge Model이란?"
                     desc={
                       <>
@@ -182,7 +180,7 @@ export default function JudgeStackOnlySection() {
               <div className="flex flex-col gap-6 lg:pl-6">
                 <motion.div className="max-w-xl space-y-4" {...SECTION_TITLE_REVEAL}>
                   <SectionTitle
-                    eyebrow="Success Path"
+                    eyebrow=""
                     title="성공 판정은 어떻게 보이나요?"
                     desc={
                       <>
@@ -200,9 +198,8 @@ export default function JudgeStackOnlySection() {
                 </motion.div>
               </div>
             </div>
-          </div>
-        </Container>
-      </section>
-    </>
+        </div>
+      </Container>
+    </section>
   );
 }
