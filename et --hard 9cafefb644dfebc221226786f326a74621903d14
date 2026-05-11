@@ -1,0 +1,624 @@
+[33mcommit 9cafefb644dfebc221226786f326a74621903d14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m유동석[m[33m)[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 31 16:31:59 2025 +0900
+
+    FEAT JUDGE api 연결(test)
+
+[33mcommit e43aa6f2088a20640da88d559c8069c394801290[m[33m ([m[1;31morigin/유동석[m[33m)[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 31 15:19:26 2025 +0900
+
+    FEAT 채팅 기능 드디어 구현 완료
+
+[33mcommit b835e680ec2379cc68769620dded5610148912d3[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 31 13:30:26 2025 +0900
+
+    FEAT API 연동 & 세션 저장
+
+[33mcommit 956b28502c2d25a4c5e78551875b9900cb6b73a2[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 29 14:16:07 2025 +0900
+
+    FEAT 챌린지 페이지 스켈레톤 UI 적용
+
+[33mcommit 08254bb75c8529f180410fd07c745de027d2b134[m
+Merge: e464bea 5595bd7
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Wed Oct 29 13:41:07 2025 +0900
+
+    Merge pull request #34 from CM4N/develop
+    
+    merge
+
+[33mcommit 5595bd775f4d03ed8455112ec7120c59ff912962[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 29 12:07:43 2025 +0900
+
+    FEAT 스켈레톤 UI 적용
+
+[33mcommit 9b819b80c2deefa66a77d1205c4f1f4c28957f6e[m
+Merge: e4e0b6f e464bea
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 15:33:19 2025 +0900
+
+    Merge pull request #33 from CM4N/유동석
+    
+    FEAT 404페이지 라우트 변경
+
+[33mcommit e464bea7d039e1294dede5e3fef504af92876945[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 15:31:54 2025 +0900
+
+    FEAT 404페이지 라우트 변경
+
+[33mcommit e4e0b6f0a53646eb1dc0719b59bc5611f02f4312[m
+Merge: 82be0d8 1227a93
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 14:31:32 2025 +0900
+
+    Merge pull request #32 from CM4N/유동석
+    
+    FEAT 문제 이미지 추가 및 적용
+
+[33mcommit 1227a93f6f9e2effa1101f6e408d8d0434a2fd17[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 14:29:35 2025 +0900
+
+    FEAT 문제 이미지 추가 및 적용
+
+[33mcommit 82be0d83957591a92579fb67b518df255476b2b2[m
+Merge: dbb5e09 b02ecc8
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 14:05:30 2025 +0900
+
+    Merge pull request #31 from CM4N/유동석
+    
+    FEAT 사이드바 대시보드 이동
+
+[33mcommit b02ecc856cc38b9d6d54f9301d00f41f71972e9b[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 14:04:52 2025 +0900
+
+    FEAT 사이드바 대시보드 이동
+
+[33mcommit dbb5e0918cdfcaa93bf18cce2d080000767ba9aa[m
+Merge: 4fda053 129f34b
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 13:58:17 2025 +0900
+
+    Merge pull request #30 from CM4N/유동석
+    
+    FEAT 설정 & 도움말 주석처리
+
+[33mcommit 129f34bd4c6055a554837556c7192ad126abd860[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 13:57:32 2025 +0900
+
+    FEAR 설정 & 도움말 주석처리
+
+[33mcommit 4fda053ee8b0e9949b61a1df38e037d538ea175c[m
+Merge: cc5977e b54c2bb
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 13:52:47 2025 +0900
+
+    Merge pull request #29 from CM4N/유동석
+    
+    FEAT MainPage 커밍순이미지
+
+[33mcommit b54c2bb8d86d89b6d6d0ad357ff7c6ee33b0a715[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 13:51:24 2025 +0900
+
+    FEAT MainPage 커밍순이미지
+
+[33mcommit cc5977e736cc9ed384055dcc8850ba5e8eff7939[m
+Merge: cfcf551 c03b6ef
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 12:46:27 2025 +0900
+
+    Merge pull request #28 from CM4N/유동석
+    
+    FEAT 버튼 폰트 두께 변경
+
+[33mcommit c03b6ef89359026a47d8063b1610bd732ec73864[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 12:45:01 2025 +0900
+
+    FEAT 버튼 폰트 두께 변경
+
+[33mcommit cfcf551d8f50100243e604c9029ff1934b7d2f0a[m
+Merge: 5d8037d 69040b4
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 12:27:25 2025 +0900
+
+    Merge pull request #27 from CM4N/유동석
+    
+    유동석
+
+[33mcommit 69040b4fbdf1136cf9d48e77161c09fd4319dd70[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 12:26:39 2025 +0900
+
+    FEAT 버튼 호버 효과 추가
+
+[33mcommit f3e7be970fb83ad3c606f7b0c25e7527818b3470[m
+Merge: 5ea3955 5d8037d
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 11:57:05 2025 +0900
+
+    Merge pull request #26 from CM4N/develop
+    
+    Merge pull request
+
+[33mcommit 5d8037db045159fa165d17979ee2d2adc83af8e6[m
+Merge: c427ac6 5ea3955
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 11:27:11 2025 +0900
+
+    Merge pull request #25 from CM4N/유동석
+    
+    FAET 아이콘 고정
+
+[33mcommit 5ea3955a872a6bc057dbc7bf1dc774f30d4728c3[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 11:25:55 2025 +0900
+
+    FAET 아이콘 고정
+
+[33mcommit c427ac60bd2fa3953ffb2d31409c49d9449a8e28[m
+Merge: a88cb80 6e07af6
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 11:02:36 2025 +0900
+
+    Merge pull request #24 from CM4N/유동석
+    
+    FEAT 챌린지 화면 아이콘 수정
+
+[33mcommit 6e07af62b36deac7e19f715edfd1af1c4f0e5936[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 11:02:03 2025 +0900
+
+    FEAT 챌린지 화면 아이콘 수정
+
+[33mcommit a88cb809753dc65f6fef760686b7d48ddc7123fa[m
+Merge: ad5524f ac6843c
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 10:41:39 2025 +0900
+
+    Merge pull request #23 from CM4N/유동석
+    
+    FEAT 사이드바 드랍다운 동작 수정
+
+[33mcommit ac6843ccb8baf511cd46b9c4df60bf5d4cb65c4e[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 10:39:03 2025 +0900
+
+    FEAT 사이드바 드랍다운 동작 수정
+
+[33mcommit ad5524fb9509efdb108bcf2ebf191158c600b10c[m
+Merge: 80e9e87 442e1ad
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 10:16:17 2025 +0900
+
+    Merge pull request #22 from CM4N/유동석
+    
+    FAET 로그인 화면 수정
+
+[33mcommit 442e1ad52dbb489007113a5875b1b613521acf68[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 10:15:32 2025 +0900
+
+    FAET 로그인 화면 수정
+
+[33mcommit 80e9e87ef744cba3e60e02583c1a19fb3f5531a2[m
+Merge: 6ae647d 5d2c11b
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Tue Oct 28 10:09:11 2025 +0900
+
+    Merge pull request #21 from CM4N/유동석
+    
+    FAET 문제 카드 호버
+
+[33mcommit 5d2c11bbd127a3dbe1a9e17b58d51036494eb660[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 28 10:08:20 2025 +0900
+
+    FAET 문제 카드 호버
+
+[33mcommit 6ae647ddd94fdf98ceee13fcfce8037359e80af2[m
+Merge: 13bc436 a67ae5a
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 17:08:57 2025 +0900
+
+    Merge pull request #20 from CM4N/유동석
+    
+    FEAT 튜토리얼 Navigate 적용
+
+[33mcommit a67ae5affdbff66f0731eca4ed803cd78093bd4f[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 17:08:25 2025 +0900
+
+    FEAT 튜토리얼 Navigate 적용
+
+[33mcommit 13bc4363af785d64d172f57980e7e18a2a36ba01[m
+Merge: 9e52b7c 3749aae
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 16:49:06 2025 +0900
+
+    Merge pull request #19 from CM4N/유동석
+    
+    FEAT 디버그 모달 버튼 이름 수정
+
+[33mcommit 3749aaed7f25cec8d605e867106798ba4bbe109f[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 16:48:18 2025 +0900
+
+    FEAT 디버그 모달 버튼 이름 수정
+
+[33mcommit 9e52b7cf2f527f750231daf2525951eaf34e3f48[m
+Merge: c994d17 2a1f3f5
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 16:41:19 2025 +0900
+
+    Merge pull request #18 from CM4N/유동석
+    
+    FEAT 버튼 간격 조정
+
+[33mcommit 2a1f3f510d1a794e42056f1adbbc6907480203cd[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 16:39:46 2025 +0900
+
+    FEAT 버튼 간격 조정
+
+[33mcommit c994d17294b6a4b7c4a07c339f85bdad9d2ef68b[m
+Merge: 9e3e952 66a8dc3
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 15:51:53 2025 +0900
+
+    Merge pull request #17 from CM4N/유동석
+    
+    FEAT 배너 변경
+
+[33mcommit 66a8dc376b4e7e3ec648c39c767b174a783fb349[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 15:50:09 2025 +0900
+
+    FEAT 배너 변경
+
+[33mcommit 9e3e9526aefe019e5abfdb4858c643c540ccebf2[m
+Merge: 2d714d8 b101917
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 14:08:32 2025 +0900
+
+    Merge pull request #16 from CM4N/유동석
+    
+    FEAR JUDGE AI 모달 크기 변경
+
+[33mcommit b1019177b6117fb48a27f5817955c966d2fd4bbc[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 14:06:22 2025 +0900
+
+    FEAR JUDGE AI 모달 크기 변경
+
+[33mcommit 2d714d80c26935fca3b9e434bbae5ced43a219c4[m
+Merge: cfc45d7 7f5f4df
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 11:48:32 2025 +0900
+
+    Merge pull request #15 from CM4N/유동석
+    
+    FEAT 챌린지 화면 레이아웃 수정
+
+[33mcommit 7f5f4df02d45b2beb2ed93a4941e7df8e10ef9d4[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 11:33:40 2025 +0900
+
+    FEAT 챌린지 화면 레이아웃 수정
+
+[33mcommit cfc45d7539a263e2d7c216d44055a2bf8b66f487[m
+Merge: e652afd b4b341e
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 27 11:05:31 2025 +0900
+
+    Merge pull request #14 from CM4N/유동석
+    
+    유동석
+
+[33mcommit b4b341eb576e350703f3721237f089c0d14fc5e0[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 11:03:55 2025 +0900
+
+    FEAT 사이드바 챌린지 화면에서는 off defalut
+
+[33mcommit 081a8456aa086919c677dc941765f00fbf5ec58a[m
+Merge: 4a24a78 076c637
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 09:08:26 2025 +0900
+
+    Merge branch '유동석' of https://github.com/CM4N/arena_front into 유동석
+
+[33mcommit 4a24a7835eb69b610f688acbe41076b20bb05e37[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 27 09:04:36 2025 +0900
+
+    FEAT judge ai 모달 수정
+
+[33mcommit e652afd94700bb186391cec2d60e2a8b5952eee7[m
+Merge: af419a2 076c637
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Sun Oct 26 22:22:17 2025 +0900
+
+    Merge pull request #13 from CM4N/유동석
+    
+    유동석
+
+[33mcommit 076c6375fbfdc400414c56625b04dab78c033fef[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 26 22:18:53 2025 +0900
+
+    FEAT 사이드바 상태에 따른 레이아웃 변동
+
+[33mcommit 4b960692e8caec65d55988b9ed264332021b251d[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 26 22:03:40 2025 +0900
+
+    FEAT Judge AI 모달 결과 구현
+
+[33mcommit af419a2048f0780d77ef660c4cd62ab95a89bb57[m
+Merge: 3427699 706888a
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Sun Oct 26 01:57:42 2025 +0900
+
+    Merge pull request #12 from CM4N/유동석
+    
+    유동석
+
+[33mcommit 706888ac59364b4bf052998c80937c23358769f6[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 26 01:55:13 2025 +0900
+
+    FEAT 사이드바 콜랩스 구현
+
+[33mcommit 0c8f15b4bca131e54299f50033536cbb5f2464b3[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 26 00:23:01 2025 +0900
+
+    FEAT 사이드바 만큼 마진 적용
+
+[33mcommit 3427699f00db6608e23cd0f08b94d72653b37091[m
+Merge: 3c71bc5 054307c
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Fri Oct 24 16:44:23 2025 +0900
+
+    Merge pull request #11 from CM4N/유동석
+    
+    유동석
+
+[33mcommit 054307c5ad488ddf935d6eff31e34d83d996cace[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 24 16:41:18 2025 +0900
+
+    FEAT 파비콘 적용
+
+[33mcommit fb0a9a0c9bc2ce0e4460e1c301b459146717ab91[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: d70dcf5 3c71bc5
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Fri Oct 24 16:25:18 2025 +0900
+
+    Merge pull request #10 from CM4N/develop
+    
+    develop to main
+
+[33mcommit 3c71bc54a5421d97c0500b47d823d99bef03de49[m
+Merge: ead8a04 ced2f3d
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Fri Oct 24 12:07:30 2025 +0900
+
+    Merge pull request #9 from CM4N/유동석
+    
+    유동석
+
+[33mcommit ced2f3dacbad8ee664284b784e3bc931cfe06081[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 24 12:06:21 2025 +0900
+
+    REFACTOR json 경로 변경
+
+[33mcommit 1d3dc9defcabe747f91a10c5f97ddd2c015885ab[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 24 11:52:56 2025 +0900
+
+    FEAT 폰트 적용
+
+[33mcommit efbc145f37987635ed551f8e6caac07261324cde[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Thu Oct 23 17:54:52 2025 +0900
+
+    FEAT tailwindcss 스타일 적용
+
+[33mcommit 05d6f8e8f03c50869dc9519e315592a22cea0820[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Thu Oct 23 17:42:05 2025 +0900
+
+    FEAT 대시보드, 카테고리 화면 구현
+
+[33mcommit 394528a84f4ae83eb09680b931f0f9eb49797b28[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Thu Oct 23 11:15:12 2025 +0900
+
+    FEAT 리더보드 구현
+
+[33mcommit be80e6372632ff8f4d1bc1976a26ff3a04770773[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 18:10:35 2025 +0900
+
+    FEAT 스폰서 컴포넌트 구현
+
+[33mcommit a1f8b57533583907ec54feb012658095a4d0841d[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 15:47:15 2025 +0900
+
+    FEAT 토큰 컴포넌트 주석처리
+
+[33mcommit 5d91db800572deceee6d2f09cd935248e3160675[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 15:31:45 2025 +0900
+
+    FEAT 대화 기록 컴포넌트 카트 간격 조정
+
+[33mcommit 45fc4d55f3687ddbaedf764f0711a1e45824ece7[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 15:29:20 2025 +0900
+
+    FEAT 대화기록  미제출 상태 추가
+
+[33mcommit 5c78d0c231f8c9db9c4fccfff4f78bfb1c1a2e15[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 15:20:52 2025 +0900
+
+    FEAT 챌린지 화면 구현
+
+[33mcommit 9e354e526e4d4ce7f4eb47a3a02164920bc8d280[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Wed Oct 22 00:11:13 2025 +0900
+
+    FEAT 도움&대화내용초기화 모달 기능 구현
+
+[33mcommit 6b408888057d14d89405dec8feac3d18ebd46f71[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Tue Oct 21 23:29:09 2025 +0900
+
+    FEAT 문제 내용 탭 구현
+
+[33mcommit 6103c975edb110d3f8d603333c522964a327caf4[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Tue Oct 21 23:18:59 2025 +0900
+
+    REFACTOR 내부 텍스트 파일 분리
+
+[33mcommit 380f3f02436cd145004b8ad69f62c2c109044a99[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Tue Oct 21 23:06:32 2025 +0900
+
+    REFACTOR 챌린지 화면 컴포넌트 분리
+
+[33mcommit 7506314043b23992ab1572bcc0ab15be781d8acc[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 21 18:26:53 2025 +0900
+
+    FEAT 챌린지 화면 구현
+
+[33mcommit ead8a043e8c533a0e3fa50598807800fbb83df2e[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Tue Oct 21 11:32:10 2025 +0900
+
+    FEAT 챌린지>카테고리로 변경 및 챌린지 페이지 생성
+
+[33mcommit 79513c0700506d40d3c5105fd1ed21457b02efab[m
+Merge: 8e6163a f319814
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 20 18:34:24 2025 +0900
+
+    Merge pull request #7 from CM4N/유동석
+    
+    FEAT 깃허브 액션 캐싱
+
+[33mcommit f3198147dde788df37e6916f4af096620f2b07b1[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 18:33:54 2025 +0900
+
+    FEAT 깃허브 액션 캐싱
+
+[33mcommit 8e6163a447501bb4a91b651a503a5118882d6902[m
+Merge: d70dcf5 5900be5
+Author: Youdongseok <87470993+Youdongseok@users.noreply.github.com>
+Date:   Mon Oct 20 18:26:54 2025 +0900
+
+    Merge pull request #6 from CM4N/유동석
+    
+    유동석
+
+[33mcommit 5900be51026d85a55ed67509bdfc755e40e2060e[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 18:26:08 2025 +0900
+
+    FEAT 챌린지 모달들 구현
+
+[33mcommit ce94931282eaeb7c7c740cd05e75dd214e611622[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 17:43:44 2025 +0900
+
+    FEAT 로딩 모달 구현
+
+[33mcommit d7a16101c8be783a896b6dbe47a73368b1612b23[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 17:10:17 2025 +0900
+
+    FEAT 챌린지 모달 구현(디버그,리셋)
+
+[33mcommit 7ea122a1130d6c0d6fe1b52c3237931a38b9fb25[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 16:36:12 2025 +0900
+
+    FEAT 로그인 화면 구현
+
+[33mcommit 81a51ea382effef7c86afd92cd061182b059e719[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 20 15:34:31 2025 +0900
+
+    FEAT 튜토리얼 화면 개발
+
+[33mcommit 58b9df0917d6463d76f0e724c75dd6ec6fdb2321[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 19 21:41:36 2025 +0900
+
+    FEAT 사이드바 챌린지 탭 클릭 이벤트
+
+[33mcommit c644847a8ceb34539940201206fa3818e7eebfaa[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 19 11:58:04 2025 +0900
+
+    FEAT 각 항목 페이지 이동 기능 구현
+
+[33mcommit b513f95c5fe85204cdafabbe6b46176c22714c53[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 19 11:13:56 2025 +0900
+
+    FEAT 페이지 폴더 구성, route 설정
+
+[33mcommit a27da873328886855170804baa043d0f27f8602e[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 19 10:49:21 2025 +0900
+
+    REFACTOR 사이드바 컴포넌트 분리
+
+[33mcommit 688fe0cd6dd7b00281aedd4bee9cb61cd0e2c7e0[m
+Author: Yudongseok <rex010307@gmail.com>
+Date:   Sun Oct 19 00:00:57 2025 +0900
+
+    STYLE 사이드바 버튼 스타일 수정
+
+[33mcommit 7ef05791ff9f5a78737c338a88878e87f195c8ab[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 17 19:02:14 2025 +0900
+
+    FEAT 사이드바 개발
+
+[33mcommit d70dcf5a26953fcb92614e5b9ab8ef80e9940436[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 17 14:13:50 2025 +0900
+
+    Add GitHub Actions workflows for develop and main
+
+[33mcommit 94125412436d85ce60e083c723cca3521040950f[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Fri Oct 17 14:13:04 2025 +0900
+
+    Add GitHub Actions workflows for develop and main
+
+[33mcommit 26df923fd807f7e854e8a6d89c315b8f0829a619[m
+Author: Youdongseok <rex010307@gmail.com>
+Date:   Mon Oct 13 11:01:57 2025 +0900
+
+    EsLint, Prettier, Tailwind 설정
